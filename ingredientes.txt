@@ -4,3 +4,5 @@ huevo
 harina
 sal
 vainilla
+canela
+manteca
