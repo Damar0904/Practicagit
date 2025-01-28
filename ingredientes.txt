@@ -7,3 +7,4 @@ vainilla
 canela
 manteca
 chocolate
+chispitas

@@ -7,3 +7,4 @@ paso: prender el horno a 65
 paso 6: meter en el horno
 paso7: meregue
 paso 8: darle a angel el pastel
+paso 9: cortar en pedazos
